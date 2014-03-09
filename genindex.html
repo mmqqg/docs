@@ -179,12 +179,15 @@
 
   <script type="text/javascript">
   $(document).ready(function() {
-          var links = document.getElementsByTagName('a');
-          var len = links.length;
-          for(var i=0; i<len; i++)
-          {
-             links[i].target = "_blank";
-             }
+              $("a[href*='http://']:not([href*='"+location.hostname+"']), a[href*='https://']:not([href*='"+location.hostname+"'])").attr('target','_blank');
+  //        var links = document.getElementsByTagName('a');
+  //        var len = links.length;
+  //        for(var i=0; i<len; i++)
+  //        {
+  //        if (links[i].href.substring(0,4)=='http'){
+  //           links[i].target = "_blank";
+  //           }
+  //          }
     });
   </script>
 

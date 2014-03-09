@@ -62,9 +62,9 @@
 <li class="toctree-l2"><a class="reference internal" href="iherb.html#id1">iHerb 优惠码（礼券码）</a></li>
 <li class="toctree-l2"><a class="reference internal" href="iherb.html#id2">iHerb母婴商品推荐</a></li>
 <li class="toctree-l2"><a class="reference internal" href="iherb.html#id3">iHerb凑单工具</a></li>
-<li class="toctree-l2"><a class="reference internal" href="iherb.html#id4">下单流程</a></li>
-<li class="toctree-l2"><a class="reference internal" href="iherb.html#id6">iHerb上传身份证攻略</a></li>
-<li class="toctree-l2"><a class="reference internal" href="iherb.html#id7">iHerb常见疑问</a></li>
+<li class="toctree-l2"><a class="reference internal" href="iherb.html#id5">下单流程</a></li>
+<li class="toctree-l2"><a class="reference internal" href="iherb.html#id7">iHerb上传身份证攻略</a></li>
+<li class="toctree-l2"><a class="reference internal" href="iherb.html#id8">iHerb常见疑问</a></li>
 </ul>
 </li>
 <li class="toctree-l1 current"><a class="current reference internal" href="">美国亚马逊海淘教程</a><ul>
@@ -420,12 +420,15 @@
 
   <script type="text/javascript">
   $(document).ready(function() {
-          var links = document.getElementsByTagName('a');
-          var len = links.length;
-          for(var i=0; i<len; i++)
-          {
-             links[i].target = "_blank";
-             }
+              $("a[href*='http://']:not([href*='"+location.hostname+"']), a[href*='https://']:not([href*='"+location.hostname+"'])").attr('target','_blank');
+  //        var links = document.getElementsByTagName('a');
+  //        var len = links.length;
+  //        for(var i=0; i<len; i++)
+  //        {
+  //        if (links[i].href.substring(0,4)=='http'){
+  //           links[i].target = "_blank";
+  //           }
+  //          }
     });
   </script>
 
