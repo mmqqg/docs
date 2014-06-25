@@ -125,3 +125,169 @@
 .. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehn6n2wkxpj20rx0ieq70.jpg
 
 在这个页面就会有这个订单的日本快递公司名和快递单号，如果有转运需要入库预报的话这个单号就需要填写，我选的转运公司不需要入库预报，所以如果跟我选的是同一转运的话，可以不去查这个单号。
+
+
+日淘转运教程——jshoppers即尚转运
+----------------------------------------------
+
+这里写教程的即尚转运公司只有空运业务，没有海运业务，空运的运费比较贵，运些食品或者轻的东西还可以，运尿不湿的话就非常贵了，运到手一包尿不湿都要超过200了，所以运尿不湿建议用海运的转运，比如海外购转运，海外购的链接见：http://www.hw-go.net/ 
+空运的话即尚算是便宜的，教程如下：
+注册转运：
+
+打开即尚转运的网址：http://www.jshoppers.com/gb/forward/index.asp 是如下页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehn73im2sdj20ra0hqdm3.jpg
+
+点击右上角的“加入会员（免费）”去注册帐号
+
+点击后到达如下图的注册页面：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehobizbn7xj20so0hb78g.jpg
+
+按照上图所示把个人信息填写好，邮箱建议不用QQ邮箱，QQ邮箱经常收不到转运公司发的邮件。随意去注册一个网易邮箱很简单的！会员ID随便填，可以不用真实的，生日必须填真实的，这个转运是需要上传身份证的，身份证上的生日必须和这里填写的一致才能通过验证！
+
+把这个页面往下拉，就是填写住宅地址，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehobmhzhqmj20px0jaae6.jpg
+
+填写内容如上图标注，这里的名字和名字拼音都要填真实的，除了上传身份证以外，还要提供住址证明才能通过验证（住址证明上的地址必须和这里填写的地址一致才行），住址证明可以是信用卡账单、水电费单据等，总之单据上既有真实的名字又有地址的单据就可以。后面我会具体写到的。
+
+页面再往下拉就是填收货人信息的，如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehobtvxzhuj20qd0iagov.jpg
+
+如果收件人名字、收件地址都跟第3点填的住宅地址信息的一致，就不需要再填了，直接在图中所标的位置打勾就行。如果不一致就照着之前的格式把收货人信息填写好。
+
+页面继续往下拉，就是如下页面：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehoc6gkrwoj20ji0j9428.jpg
+
+照着图片上的标注填写好，再点右下角的红色按钮就能注册了。
+
+点击以后就会出现信息确认的页面，如下图：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehoc8nbzy2j20jq0idq4y.jpg
+
+核对无误后，就可以点右下角的红色确认按钮确认提交。
+
+二、填写转运地址
+然后就是注册成功的页面啦，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehocbiojf6j20s80inwj2.jpg
+
+此页面右边就有查看转运地址的地方，如上图标示。
+
+点开后的页面如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehoceb9emyj20rk0hw77n.jpg
+
+在同意使用条款前面的位置打勾
+
+打勾后才能看到转运地址，出现的页面如下图：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehocfstu9mj20ro0j7n1p.jpg
+
+左下角的就是日本的转运地址啦，图中标注出来的JT开头的一串码就是唯一识别码，这个是用来区分每个用户的，每个人的这串字符会不一样，把转运地址填进购物网站时一定记得把这个JT开头码填进去，这样东西到转运以后才会记录到你名下，不填的话转运公司就不知道包裹是谁的了。
+
+比如我在日本亚马逊购物，在填写收货地址的时候，就需要把转运提供的地址填进去，把转运地址填写进日本亚马逊的收货地址后是如下页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehocncjxn4j20vx0jbq6f.jpg
+
+大家根据自己的转运地址依样画葫芦的填写即可，然后就是安装网站购物的流程完成下单。
+
+提交出库
+等商品到达转运公司入库了，转运公司会发邮件提醒的，然后再打开转运的网站，点右上角登陆后，就会出现如下页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehp8w0pki0j20ri0iqjvm.jpg
+
+如果登陆后出现的页面没有订单信息，也可以点击右上角的“我的网页”去查看。
+看到订单后点结帐按钮进去。
+
+进入后出现如下页面：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehp9avqnv1j20rd0ihaeg.jpg
+
+这个页面会有一些商品明细、收货地址等信息，点击结帐按钮
+
+然后就会到达要上传身份证的页面，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehp9zlfur0j20sv0im42r.jpg
+
+【注意】这家转运不仅要上传身份证，还要上传地址证明，如果有上图中红框内的这些证件其中一种的话，直接在这个页面上传就行，但是要记住，除身份证外其他上传的证件上的地址必须和注册转运时填写的“自宅地址”一致，不一致的话就先去“我的帐户”里修改自宅地址。如果没有红框内的证件，这个页面就可以不传东西，而是去邮件验证证件，身份证照片是必须提供的，地址证明可以提供水电费缴费单、信用卡纸质账单等任一种的照片，只要上面既有真实名字又有地址的就行，地址还是需要跟自宅地址一致。
+
+这里演示发邮件给转运的客服验证身份信息（如果在网站上上传成功身份验证了，就不需要发邮件了），邮件格式如下：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehpfgnrc6mj20qy0d4gpe.jpg
+
+邮件里要写上转运单号，就是在转运的网站上显示的受理编号，有几个订单就写几个，然后把真实名字也写上，真名后面加上JT开头的唯一编码，在转运地址里写的那个。身份证照片是需要正面和反面分别拍照的，然后地址证明也需要提交一个（可以是电费单、水费单、信用卡纸质账单等），再次强调下地址证明上面要用真实的名字，地址要跟转运填的自宅住址一致，照片的像素不要太高了，要控制在1M以内，如果是用手机拍照的话，要照片上传到电脑上以后用QQ截图一下，保存截图后的照片，像素才会缩小到1M以内哦。
+
+等身份验证通过，会收到邮件通知，收到邮件后，就再次登陆到转运的网站，这里还要建议大家等日亚发货后登陆到日亚的订单记录里看看货物有没有被分开发，到订单页面的步骤前面的教程里有写到，如果有显示多个预计到达时间的话就是被分成多个订单了，那就需要等订单都到转运了再去申请合箱，比如我的是两个订单，隔了两天去转运的页面，显示就是如下页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehpgjdv7d2j20rm0imwjb.jpg
+
+点图中标示的申请集货（合箱）按钮，如果只有一个订单的话，就忽略此步到第19步，
+直接到第20步去操作。
+
+点申请集货按钮后，会出现如下页面
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehpgr8r9nfj20rk0exwhp.jpg
+
+点击搜索按钮
+
+点搜索后出现如下页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehpgtmpegqj20sh0hi42z.jpg
+
+把要合箱的都打勾，然后点申请集货按钮
+
+然后会出现如下页面：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehpgupnyfzj20jr0hbdin.jpg
+
+点击图中的确定按钮
+
+提交成功后是如下页面：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehph311rh6j20jk0hmdiy.jpg
+
+然后就是等待集货（合箱）申请通过了，通过会发邮件通知。
+
+集货（合箱）申请通过后，再次登陆到转运的网站，点击订单后面的结帐按钮，如下图所示：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehph7nxcbqj20rk0cwdj8.jpg
+
+到确认信息的页面，信息都确认无误的话，在此页面点击结帐按钮，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehphdzofc8j20r90jbwj9.jpg
+
+
+到达选择支付方式的页面，选择支付宝最方便，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehphf29ptxj20mm0j1mzz.jpg
+
+选择支付宝以后，点确认按钮，如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehphgzg9stj20rf0hy0wy.jpg
+
+
+然后就到达大家熟悉的支付宝页面了，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehphhzl3akj20qn0ifjvb.jpg
+
+页面右上角有日元的金额也有人民币的金额，当前汇率就两个除一除就知道了。把支付宝帐号和支付宝登陆密码填写好，再点登陆按钮即可去付款啦！
+
+跟踪物流
+登陆转运后，点击右边的转送记录按钮，如下图所示：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehphzk0rfkj20rn0fbwiw.jpg
+
+然后就可以看到快递单号
+
+把单号复制进EMS官网去查询，官网地址www.ems.com.cn，把单号复制进搜索框搜索，搜索结果如下图：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehpi2b6rrlj20nx0iu42z.jpg
+
+速度很快吧，从日本发出后3、4天就到手哦！不过如果是尿不湿这种重东西的话建议走海运，海运速度一个多月的样子，大家要预留充分的时间哦！
+
+希望大家都能自己学会，给宝宝们淘上放心的东西，妈妈们加油哦！
+
