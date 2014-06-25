@@ -1,0 +1,86 @@
+Drugstore（DR）购物教程
+======================================
+
+
+drugstore（简称DR）是北美地区最大的健康用品的B2C，专卖和健康有关的各种产品，包括监测、保健、护肤、洗浴等产品，是许多海淘妈妈喜欢去的网站。此文介绍DR的购物教程，想学的看过来哦！
+
+
+下单流程
+--------------------
+
+首先，进入网站 `drugstore首页 <http://go.redirectingat.com?url=http%3A%2F%2Fwww.drugstore.com%2F&xs=1&id=48460X1205860>`_   ，出现的页面如下图中：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ee9s6660t4j20rz0grteu.jpg
+
+点击上图中的sign in 按钮会出现如下页面：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ee9s7ul487j20m10gon0k.jpg
+
+如果已经有帐号可以直接登录，没有帐号的话可以点击上图中的create a new account的位置（如上图标注） ，出现以下的页面：照着图中标注的把注册信息填写完，然后点coutinue按钮完成注册
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ee9sduib4tj20l00frdin.jpg
+
+注册成功会直接登录，在任何一个登录成功的页面上方都有一个搜索框，可以直接用关键词搜索商品，记住要用英文，不知道英文名称怎么写的可以求助于百度或者淘宝。比如我搜加州宝宝的产品，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ee9slklqb4j20mb0j8afi.jpg
+
+出来的搜索结果页面就可以直接将商品加入购物车（如上图所示）,也可以点商品图片或标题进入到商品详情页，在详情页也可以选择数量加入购物车，如下图：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ee9ss3xhf8j20jr0gjacv.jpg
+
+点了加入购物车按钮就直接跳转到购物车页面了，在购物车页面可以修改商品数量也可以删除商品，记得修改完商品数量后都要点“update bag”按钮才能完成更新，如下图：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ee9t2cwo5bj20ki0h1goe.jpg
+
+运输方式一般选默认的，只要订单超过35美元选默认的这个就不用加钱。在购物车页面还能看到预估的美国消费税，在下图所示的位置填上转运公司给的转运地址的邮编，就会在对应位置显示需要扣的美国消费税。一般转运公司都有免税州仓库，寄到免税州仓库的就不用收美国消费税啦，但大部分转运公司免税州仓库运费会贵些速度也会慢些，这个大家就对比着选吧！
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ee9usbhcf4j20jn0hb77f.jpg
+
+如果点击checkout后会出现以下页面，会要求填写信用卡账单地址（Billing information)和收货地址(shipping information)，账单地址本应写真实账单地址的，但现在账单地址那选不了中国，所以账单地址和收货地址可以都填转运公司给的地址，如下图填写：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ee9v4cqk7rj20g90cf0un.jpg
+
+在同一个页面往下拉，可以看到填信用卡账号的地方，点选择card，然后照着下图把卡信息填写好，分别填写信用卡类型、卡号、卡到期日期以及持卡人的名字拼音（持卡人名字拼音填写就照着信用卡上的拼音顺序就行）。
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1eeaqyi6gncj20er07xdgw.jpg
+
+填好号后点“Continue with checkout”,如下图：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ecdjpnq63rj20e30armya.jpg
+
+第一次购买登记的时候，系统会记住你的付款信息和收货地址，如果没有变化以后购买就不用再这样输了，下面显示的是你的账单，优惠会直接显示在此处，如果你还有其他的优惠码，可以填写在输入框中再点击“apply coupon”。没有就不用填。最后，点击"place your order"，就算是大功告成了！
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ecdjqd8bwxj20du0e076b.jpg
+
+下了订单后，网站会给注册邮箱发一封confirmation的确认邮件。 如果想查看自己的订单，可以点击页面上方的your account，进入帐户 点击orders，就可以查看已经购买成功的订单。
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ecdjqvi9ghj20ed08zjss.jpg
+
+再点order number订单编号，就可以查看订单的具体信息。每个订单有个status 表示相应订单的具体状态，如果是processed就是正在进行中，这时可以更改或取消订单。如果是complete就是已经完成，不可更改货取消订单。货物一旦发出，网站会自动给注册邮箱发发货邮件，邮件中会有快递单号，到时候用快递单号去转运公司预报入库就行（某些可以自动入库的转运可不用预报）。
+
+
+DR折扣页面教程
+------------------------
+
+DR也像亚马逊一样有专门的折扣页面哦，平常经常逛逛折扣页面方便找到DR的特价商品哦，跟我一起来学习怎么用吧！ 
+
+
+首先打开 `DrugStore 优惠页面 <http://go.redirectingat.com?url=http%3A%2F%2Fwww.drugstore.com%2Fthe-sale%2Fqxc61135%3Faid%3D333840%26aparam%3DTnL5HPStwNw-EzEJY.RWc_7TrSHUqQjfUw&xs=1&id=48460X1205860>`_  进入后会显示如下页面：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ebrk26kcfyj20h80dhjt7.jpg
+
+此页面会列出各个分类及对应的优惠折扣，对哪个感兴趣可以点入，比如我想看母婴类的优惠就点了左边第二个Baby&Mom,点入后的页面如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ebrk7mk0d6j20hy0eaabk.jpg
+
+点宝贝标题或图片进入，比如我点了第一个爱因斯坦电话的图片进入，到了如下页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ebrkh2es3gj20dz0cy3zn.jpg
+
+上图中黑色被划掉的价格代表原价，红色的价格就是优惠后的价格啦，比如爱因斯坦电话的原价是9.99美元，现在购买就是7.99美元。要买什么商品就打勾选中（如图中表示），选好以后点结算按钮加入购物车，购物车页面如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ebrkn75ycaj20ep0cywfu.jpg
+
+在加好购物车以后大家可以继续去挑选其他商品，也可以直接去结帐，按钮上图中都有标注。 希望这个小窍门可以帮助大家省钱哈！
+
+

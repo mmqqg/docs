@@ -1,0 +1,127 @@
+日本亚马逊海淘教程
+=======================================
+
+相比美国亚马逊海淘，日本亚马逊海淘也有某些方面的优势，比如速度快，转运更正规等。
+
+下单图文流程
+-------------------------
+
+
+打开 `日本亚马逊的网站 <http://www.amazon.co.jp/>`_ ，网站链接，打开后如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehn1vbamtcj20yz0izah6.jpg
+
+点击搜索框上方的In English可将页面翻译成英文，看起来易懂些，如果直接用Google浏览器翻译成中文的话，这步也可省略。
+
+变成英文页面就是如下图的效果：
+
+.. image::  http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehn1xjrkymj20s30fkjwe.jpg
+
+点击上图中标注的Start here的地方可以去注册帐号
+
+到达如下的注册页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehn21fchnqj20hb0ehwh4.jpg
+
+对照上图中的标示把注册信息都填写好以后点Create account按钮提交。
+
+注册成功后，是如下页面： 
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehn417718mj20xc0he7aa.jpg
+
+然后就可以在搜索框里输入关键词再按搜索按钮搜索商品了，因为日文不会写，所以一般输入英文的品牌名称来搜就可以，比如我搜索和光堂的商品，就输入和光堂的英文名”wakodo”
+
+搜索出来的结果页面如下图：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ehn4eqxgo5j20w90iiwjy.jpg
+
+商品的价格旁边有个蓝色符号的代表是亚马逊发货的，这种商品比较靠谱，建议不买不带这种标志的商品。
+
+点商品的图片或者标题就能进入商品详情页了，比如我点了和光堂的动物饼干，出现的详情页如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehn4vzlah0j20yf0in7bo.jpg
+
+像这种消耗品，在右边会有两个价格，第一个价格是一口价，一次购买不影响以后的。下面一排的价格是定期发货服务的价格，就是这次购买的时候设置一个间隔的发货时间，等到达那个时间了会自动再发一份，然后从绑定的信用卡里自动扣款。一般来说，不选第二个价格，如果一定要图便宜选择第二个价格，也记得在购买好以后到我的帐户里去关闭定期发货功能。
+
+我选择第一个一口价的价格来购买，选择好数量以后点Add to Cart按钮加入购物车
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehn58ys46tj20yg0iaq9r.jpg
+
+
+加入购物车成功以后是如下页面：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehn5a8zkglj20y30fo0xh.jpg
+
+可以点上图中右上角的购物车标志或者Edit your Cart按钮到购物车页面
+
+到达购物车页面后如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehn5g7g5ouj20yi0j3n3r.jpg
+
+一般不勾选礼物包装，在购物车页面可以修改商品的数量，也可删除对应的商品，核对无误后可以点Proceed to Checkout按钮去结帐。
+
+点击结帐按钮后，到达填收货地址的页面，如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehn5k6zhe8j20v70ixq70.jpg
+
+由于日本亚马逊是不直邮中国的，所以要去注册一个日本的转运公司，把转运公司给的日本收货地址填上，对转运迷茫的不要紧，这个教程后面我会写上日本转运的教程的，请耐心把教程看完再去购物哦！
+
+比如我注册了日本的即尚转运，转运给的收货地址如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehn5qsqqlej20b409mmxp.jpg
+
+然后就把这个转运给的地址填进日本亚马逊的收货地址中
+
+填好以后的页面如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehn5zh4r7rj20vx0jbq6f.jpg
+
+不明白的可以对照上图的注释去填写，填写好以后点击Continue按钮
+
+点击Continue按钮后就到达选择运输速度的页面，如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehn61s4m48j20wb0izwiq.jpg
+
+一般选择第一个标准速度是免费的，选择好再点Continue按钮
+
+点击好到达如下页面：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehn642omrqj20wj0htjvv.jpg
+
+点上图中左下角Add a Card按钮去添加信用卡信息
+
+点击后出现如下页面：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehn67cdubuj20ww0eq0vw.jpg
+
+把信用卡持卡人名字拼音、卡号、卡到期的月份、年份这些信息都填写好，然后点Add your card提交。
+
+
+提交了以后是如下页面：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehn695oli7j20vm0b1wgx.jpg
+
+再点Continue按钮继续
+
+到达如下页面：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehn6a8llgjj20um0j70xf.jpg
+
+会显示购买的商品明细，无误的话点Place your order按钮提交，因为海淘的话信用卡都是不需要密码的，所以点提交按钮后就直接购买成功了！
+
+购买成功的页面如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ehn6d7i439j20sj0extdh.jpg
+
+【查看订单】
+在上图中购买成功的页面点右上角Your Account按钮，再点Your Orders按钮去查看购买成功的订单记录。到达如下页面：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ehn6gg48ntj20rg0iljv5.jpg
+
+因为我这个是商品发货后去截的图，所以订单状态显示的是Shipped，如果是还没发货的话状态会是Not Yet Ship，如果签收了状态就是Delivered。在这个页面左边时间下面有个Order Details按钮，点击进去
+
+点击后会到订单明细的页面，如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ehn6n2wkxpj20rx0ieq70.jpg
+
+在这个页面就会有这个订单的日本快递公司名和快递单号，如果有转运需要入库预报的话这个单号就需要填写，我选的转运公司不需要入库预报，所以如果跟我选的是同一转运的话，可以不去查这个单号。

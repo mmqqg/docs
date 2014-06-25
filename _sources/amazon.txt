@@ -1,0 +1,365 @@
+美国亚马逊海淘教程
+==========================
+
+
+海淘的童鞋都知道亚马逊是个综合性的购物网站，而且经常会有给力的优惠折扣，可谓是海淘的好去处。
+本文介绍Amazon美国亚马逊的购物教程，新手快来看看吧！
+
+.. note::
+    美国亚马逊的商品最全了，学会淘美国亚马逊后，什么东西都可以海淘到了。
+
+常用促销链接
+-------------------------------
+`母婴类 <http://www.amazon.com/b/?_encoding=UTF8&node=165796011&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_ `健康护理类 <http://www.amazon.com/b/?_encoding=UTF8&node=3760901&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  `服饰配件类 <http://www.amazon.com/b/?_encoding=UTF8&node=1036592&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  `鞋类 <http://www.amazon.com/b/?_encoding=UTF8&node=672123011&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  `手表类 <http://www.amazon.com/b/?_encoding=UTF8&node=377110011&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  `热门母婴用品列表 <http://www.jiangleme.com/amazonmom>`_
+
+
+
+
+下单流程
+------------------
+
+下单图文流程:
+
+1. 打开亚马逊的网址，www.amazon.com 点击页面右上角的Your Account后,会出来如下图页面，如果已经\
+   有美国亚马逊帐号可以直接点Sign in按钮去登录，没有亚马逊帐号的就点击下图中被箭头指向的"Start here"处哦
+
+.. image:: d6e3d8b6jw1ecuv4xbp66j20hl0augo4.jpg
+
+2. 点击Start here 后就进入新用户注册流程，把相关信息填写好，具体如何填写的请看下图:请注意注册的邮箱和密\
+   码都要输2遍哦！填好后点击Create account按钮就完成注册了！
+
+.. image:: d6e3d8b6jw1ecuvef1hvbj20n10f8acw.jpg
+
+3. 完成上一步操作之后，就会自动登录此帐户，会出现如下页面
+
+.. image:: d6e3d8b6jw1ecc3ugjgyzj20h10aiabr.jpg
+
+4. 下面就可以开始选择需要购买的东西了：可以通过关键词查找也可以通过类目查找，记得要用英文去搜，英文不好的\
+   可以装个Google浏览器自动翻译或者直接去www.zhuzhuhaitao.com去用中文关键词模糊搜索。比如搜小鹿牙胶可以用\
+   关键词搜，如下图：
+
+
+.. image:: d6e3d8b6jw1ecc3x2hb5ij20md0dtq62.jpg
+
+5. 出来搜索结果页面，会有给出很多的选项，都符合的话一般点最上面那个的标题进入就可以，如下图：
+
+.. image:: d6e3d8b6jw1ecc3xnyvxgj20l50i177n.jpg
+
+6. 进入商品详情页后是这样的页面，会有商品价格，描述等信息，这里看不懂英文介绍的话可以把商品链接复制\
+   进 http://www.zhuzhuhaitao.com 去查看中文信息，重量、到手价、价格曲线等等都能查到哦，想购买的话点页面右边的加\
+   入购物车按钮，如下图标注的：
+
+.. image:: d6e3d8b6jw1ecc3z680psj20vr0cpwi0.jpg
+
+7. 要买的东西都添加进购物车以后，可以按”proceed to checkout“按钮去结帐，如下图：
+
+.. image:: d6e3d8b6jw1ecdi0wh1utj20tj0bs41x.jpg
+
+8. 然后就会让你添加收货地址，由于亚马逊不能直邮中国，这个地址就是需要填转运公司地址，不知道转运怎么注册\
+   转运的请看这个转运攻略 http://bbs.zhuzhuhaitao.com/thread-37-1-1.html 。我以我用的腾牛速递为例给大家介绍下\
+   怎么填，以下是腾牛速递给我的地址（注册过才有用哦）：
+
+.. image:: d6e3d8b6jw1ecdi8p0613j20qr0ilq78.jpg
+
+9. 然后把转运给的地址依样画葫芦的填进亚马逊的地址栏中，如下图:
+
+.. image:: d6e3d8b6jw1ecdigte3unj20dn0jjgnp.jpg
+
+10. 填完地址以后点ship to this address按钮，就会让你确认货物信息和选择发货速度，如下：
+
+.. image:: d6e3d8b6jw1ecdid06pjoj20va0hujur.jpg
+
+11. 只有选最上面的那个5到8个工作日的选项才是免美国运费的，如果嫌慢可以免费试用3个月的亚马逊妈妈计划，就\
+    能免费用3个月的2日快速送货服务，亚马逊妈妈计划试用和取消教程见：http://www.mmqqg.com/p/7 ，接下来需要填\
+    写你的信用卡信息了，如下图：
+
+.. image:: d6e3d8b6jw1ecuw9f91v6j20x10dcjtl.jpg
+
+12. 点完以后会让你输信用卡信息（目前亚马逊既支持双币信用卡又支持有银联标志的单币信用卡了），按照下图所示填写卡信息：
+
+.. image:: d6e3d8b6jw1ecuwasf046j20wr0fn41a.jpg
+
+13. 有时候还会让填信用卡的账单地址，账单地址就填国内收信用卡账单的真实地址，不知道的可以登录网上银行\
+    查询，填拼音就行，邮编多一位的话任意减一位就行。填写完毕之后点Add your card按钮就到达以下页面让你确认订单：
+
+.. image:: d6e3d8b6jw1ecuwdva0cvj20uj0i443a.jpg
+
+14. 确认商品，地址和金额都无误后就可以上图点右上角的Place your order按钮确认购买（注意在美国购物信用卡是需要输密码的，\
+    点了此按钮就购买成功了，亚马逊发货时才会在你这张卡里扣钱，而不是下单的时候扣），购买成功后是如下页面：
+
+.. image:: d6e3d8b6jw1ecdiynjkg9j20f404yt9k.jpg
+
+
+
+
+
+查发货状态、快递单号
+-------------------------------------
+
+有些人反映买完商品后不知道如何去看商品的发货状态和快递单号，我以我下的一个单为例给大家讲解下！ 
+
+
+1. 点开页面右上角的"Your Account",再点"Your Orders" 如下图标注：
+
+.. image:: d6e3d8b6jw1ecuxbia8nlj20nx0dx41t.jpg
+
+2. 点进去以后就是已买到的商品页面了，发货状态看下图所示：
+
+.. image:: d6e3d8b6jw1ecuxe7k11hj20s00gc41y.jpg
+
+3. 如果要查看美国快递单号等信息，请点击左边的Order Details按钮（如上图图上标注的）进入，进入后的页面如下图：
+
+.. image:: d6e3d8b6jw1ecuxih5cszj20sr0gyae2.jpg
+
+4. 看上图标注，美国发货的快递公司和快递单号都能在这个页面查到，有些转运公司会要求入库预报，就是把快递公司名和\
+   快递单号去转运公司填写到对应页面就行。亚马逊是发货才扣款的，发货的时候也会有发货邮件，以前快递单号会写在邮件里，\
+   现在基本不写邮件了，如果你选择的转运公司是需要填入库预报的话就到亚马逊的这个页面去查快递单号，\
+   只要商品的状态显示Shipped或者Delivered就能查到单号的。
+
+
+
+
+
+查询重量、到手价、价格曲线
+-----------------------------------------
+
+亚马逊商品的中文介绍，重量，到手价，价格曲线，判断自营或第三方等等信息都能通过猪猪海淘查到哦，还可以添加进购物车查看\
+购物车的总重量呢，甚至可以支持模糊的中文搜索商品哦！具体教程请往下仔细看哦！ 
+
+1. 首先打开猪猪海淘的网址：http://www.zhuzhuhaitao.com （请大家加入收藏夹，方便下次找到哦！）猪猪海淘首页是海淘过亚马逊\
+   的人曾经买的东西，可以看看别人购买过的东西，有需要的话点入对应的商品图片可以进入到猪猪海淘的商品介绍页面，在商品介绍\
+   页面可以直接加入购物车哦！
+
+.. image:: d6e3d8b6jw1ecy5n6rmu4j20q80gdn0l.jpg
+
+2. 点左边导航栏对应的分类进入，会显示亚马逊对应类目下热门的商品哦，而且每个商品都有中文标题，一目了然的知道是什么东西。
+
+.. image:: d6e3d8b6jw1ecy5o37gmsj20ra0gntbp.jpg
+
+3. 在猪猪海淘上大家可以找到亚马逊商品的中文介绍，重量，到手价，价格曲线，还可以区分自营和第三方产品哦！下面我们以亚马逊\
+   的一款吸管杯为例，给大家介绍猪猪海淘的强大功能，其他的亚马逊商品依样画葫芦即可。下图为亚马逊商品详情页，选择好款式后，\
+   复制商品链接，不知道商品链接是什么的看图片：
+
+.. image:: d6e3d8b6jw1ecy5q6v6ilj20se0k2n2v.jpg
+
+4. 把刚才复制的商品链接粘贴进搜索框：
+
+.. image:: d6e3d8b6jw1ecy5qps1t5j20l40ekac5.jpg
+
+5. 然后点搜索按钮，出来的就是如下页面： 看到没有？商品的中文介绍，价格，重量，自营还是第三方的判断（建议不买第三方产品），\
+   到手价（加上预计的运费后的价格）应有尽有啊，有了这样的页面谁还能以看不懂英文作为逃避海淘的理由呢？
+
+.. image:: d6e3d8b6jw1ecy5rrkjchj20uf0l1wjr.jpg
+
+6. 强大的功能来啦，在“当前价格”的右边有个“查看价格曲线”的按钮，点一下就可以看到此商品的价格波动曲线，海淘过亚马逊的人肯定知道，\
+   亚马逊商品价格经常变动，在价格偏低的时候下手是最明智的！看完价格曲线，觉得是时候可以购买此商品了，别忘了点页面最底下“添加到购物车”按钮，\
+   在购物车中可以计算购物车的商品总重量哦！
+
+.. image:: d6e3d8b6jw1ecy5sevf3yj20x50kpte2.jpg
+
+7. 如果要把同一款商品切换成其他的款式，或者更改数量，在这个页面也是可以实现的，更改后同样可以加入购物车，如下图：
+
+.. image:: d6e3d8b6jw1ecy5t3vd5tj20re0j60wv.jpg
+
+8. 添加到购物车后，以下是购物车的页面：在这个页面可以看到购物车当前页面的总重量，每个商品分别的重量，也可以对商品数量做修改，\
+   如果不想要某个商品，数量更改成0即可，记得更新完数量后点一下“更新购物车商品数量”的按钮，然后再点“去Amazon .com结账”按钮，就可以\
+   将此购物车商品复制到亚马逊的购物车中。用猪猪海淘的购物车除了可以计算总重量，还可以让他们看见你购物车的商品，复制左下角的链接给\
+   他人就行（如图中所示），如果跟人拼单核对东西，或者让人代购东西，就非常简单了，不用一个个的发链接咯！如下图：
+
+.. image:: d6e3d8b6jw1ecy5ts4jpbj20xt0hd78x.jpg
+
+9. 点了结账按钮后是先到达如下这个页面： 此页面为了跟您核对购物车的信息，无误后点“继续”按钮
+
+.. image:: d6e3d8b6jw1ecy5udt3vnj20ts0dlad4.jpg
+
+10. 然后就到了亚马逊的购物车页面了，看到没有，商品都复制过来了，只要再点结账按钮去结账即可，之后都是亚马逊的操作步骤了，\
+    有不明白后面怎么操作的可以看我写的亚马逊教程哦
+
+.. image:: d6e3d8b6jw1ecy5vm3polj20xy0irn37.jpg
+
+11. 接下来看到猪猪海淘导航栏中的“分类浏览”选项，选择对应的类目，比如选了安全座椅，就会出现亚马逊上安全座椅类目下排名靠前的宝贝。
+
+.. image:: d6e3d8b6jw1ecy5w6nijnj20ni0h80w0.jpg
+
+12. 点黄色按钮就能去亚马逊此分类的页面看更多对应类目下的宝贝了，如下图：
+
+.. image:: d6e3d8b6jw1ecy5wy29ysj20of0k2wie.jpg
+
+13. 导航栏中的“搜索”选项，可以支持中文搜索哦，绝对是英语白痴的福音啊！建议大家用较模糊的字眼搜索以免翻译过来有误差哦！\
+    点每个宝贝的名称可以看到对应的中文介绍哦，同样有重量，到手价，价格曲线等信息
+
+.. image:: d6e3d8b6jw1ecy5xq09d4j20w10jsq6x.jpg
+
+14. 导航栏中“购物流程”选项，可以看到亚马逊的图文购物教程，跟着做会发现海淘一点都不难哦！记得每看完一步就点页面右下角的“下一步”按钮\
+    （这里图片没截进去，大家仔细看会找到哦）
+
+.. image:: d6e3d8b6jw1ecy5yc1tpuj20sw0k80x2.jpg
+
+猪猪海淘以后会有更多强大的功能的，请大家期待！
+
+
+
+
+亚马逊妈妈计划免费试用教程
+----------------------------------------
+
+美国亚马逊妈妈计划是亚马逊针对客户体验做出的一项新的服务提升，收到北美数千万网购妈妈的喜爱，亚马逊妈妈计划的优势： 
+
+* 买尿片和湿巾可以有8折优惠。 
+* 免费试用3个月的prime计划，两日超快免费送货，普通帐号可是要一周左右哦，而且不满25美金也免运费 
+* 其他超值折扣。
+
+
+申请试用的教程：
+
+已有美国亚马逊帐号的直接登录，没有美国亚马逊帐号的可以先到http://www.amazon.com  点击右上角your account，再点start here去注册帐号，如下页面，把注册邮箱和密码信息填好
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201311/04/200731awycztjjzg66zas6.jpg
+
+注册好登录以后点击以下链接进入亚马逊妈妈的申请页面：
+https://www.amazon.com/gp/mom/account?ie=UTF8&ref_=ya_manage_mom&tag=mmqqg-20
+
+到达如下页面，点击“join now"进入：
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201311/04/200836ijr6errbnoorl8zo.jpg
+
+进入如下页面，把对应信息填写好，具体内容见图，填写好点击continue按钮：
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201311/04/200932lxgo88odh3hoo8du.jpg
+
+进入到如下页面，填写信用卡信息和地址，如果你账户有绑定过信用卡，可以选已经有的卡（existing card），如果没有则新建一个卡（选new card）。注意这里的地址是要填信用卡的账单地址，就是平常每个月信用卡的纸质账单要寄去哪，不知道的可以上信用卡的网上银行查询或拨打银行电话查询，写拼音就可以，邮编随意去除一位即可（因为美国邮编是5位，中国邮编是6位）。
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201311/04/201011iw99j8smrpfx9u9p.jpg
+
+点击黄色按钮后就试用成功啦！加入成功就是这个页面啦！
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201311/04/201209i03bx40u0i0b5j53.jpg
+
+
+取消续费
+^^^^^^^^^^^^^^^^^^
+
+在加入成功后记得要取消自动续费功能哦(在3个月到期之前任何一天取消都可以），不然三个月免费试用到期会自动扣费79美元哦（因为亚马逊妈妈的年费是79美元），下面介绍取消自动续费的方法：
+
+右上角Your Account进入
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201311/04/201240ymk24k6mgd4ze2dc.jpg
+
+进入到如下页面，再点Manage prime membership，因为这个自动续费实际上是prime的年费
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201311/04/201325ajkki2djscokcmk2.jpg
+
+进入以后到达以下页面：
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201401/10/150109gkzigs6rsq6rcjic.jpg
+
+点击End Membership按钮，然后会出现此页面，让你确定是否要退出
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201401/10/151048u7v5b95m5pqmsdxp.jpg
+
+直接点End Membership按钮，也有可能改版后上面这个页面不出现，直接出现如下页面：
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201401/10/151224g2zei1f4al2ccflv.jpg
+
+点End Now按钮就直接退出prime啦，退出成功的页面如下图：
+
+.. image:: http://bbs.zhuzhuhaitao.com/data/attachment/forum/201401/10/151318zv6sot48aomyt8xq.jpg
+
+.. note::
+    只要在妈妈计划免费3个月到期之前去退出Prime就行，万一忘了退出3个月到期的时候被扣了79美元（有时候会扣80多美元），只要在扣费后没有购买过亚马逊的商品，都可以遵照我上面这个退出prime的步骤来操作，操作成功后邮箱马上会收到一封亚马逊发的邮件，邮件的内容就说没使用到Prime的好处，所以扣的款项会退回，然后自己不用操作什么，等着钱退回就行。
+
+
+亚马逊优惠券使用教程
+-------------------------------------------
+
+在亚马逊购物时除了关注各种打折信息外，还有个小窍门就是使用优惠券。具体的使用方法看过来哦，非常简单的！可以省钱哦！
+
+先进入此优惠券页面： http://www.amazon.com/Coupons/b?node=2231352011&tag=mmqqg-20&ie=UTF8 各种优惠券对应的商品和优惠的金额都很一目了然的
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ebqdk2qsw9j20j80afjt0.jpg
+
+点击想要的优惠券可以找到宝贝链接，比如我点了上图最后面剃须刀的优惠券，会出现如下页面：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1ebqdqrdrk3j20fp08njrv.jpg
+
+可点“Add to Cart"按钮直接加入购物车，也可以点击商品标题或图片进入商品详情页，我这里示范后一种方法 进去详情页是以下页面：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ebqe42mamcj20im08w0u5.jpg
+
+点击价格下面的使用优惠券按钮，如上图所示，然后点加入购物车 购物车页面显示如下：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ebqe93l14hj20ld07h75f.jpg
+
+成功使用优惠券会显示上图中标示的信息，点上图右边的结帐按钮去结帐，选择好地址和送货时间后的页面如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ebqeck7zkfj20b205bjrm.jpg
+
+看到没有，由于用了50美元的优惠券，此剃须刀的结帐价格变成了176.99美元哦，最后付款金额就是176.99美元哦！希望大家都可以用优惠券节省点钱哈！
+
+
+
+亚马逊自营服饰8折码申请使用
+--------------------------------------------------------
+
+亚马逊的自营服装，每个帐号有一次机会可以8折购买到哦，非常划算，而且申请和使用都非常的简单，具体的教程如下：
+
+首先用已注册的帐号登录亚马逊（不会注册的看亚马逊教程哦）
+
+然后打开： http://www.amazon.com/b/?node=8439053011&_encoding=UTF8&camp=1789&creative=390957&tag=mmqqg-20&linkCode=ur2 打开后是如下页面：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ecvt7r1p90j20h308b0ts.jpg
+
+页面右边有个黄色哦sign-up按钮，点击“sign up”，勾选订阅选项，然后邮箱会收到8折码。
+
+得到8折码以后，只要将选中的自营服饰添加进购物车，在结帐页面会有如下图的一个输优惠码的框，将8折码填入下图对应的框中，点Apply按钮就可以享受8折啦！
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1ecvtckwuo5j20cg0alaae.jpg
+
+
+使用限制： 
+
+* 必须是amazon自营的服饰、箱包，是否自营的判断可以把商品链接输入www.zhuzhuhaitao.com 去查看 
+* 优惠码30天有效.
+
+如果你以前订阅过,收到过优惠码, 也可以取消订阅邮件, 然后尝试重新订阅,也可以有机会得到8折优惠码哦!
+
+
+亚马逊联系客服的方法
+-------------------------------------------
+
+点此链接进入： https://www.amazon.com/gp/help/contact-us/general-questions.html?ie=UTF8&nodeId=508510&type=email&skip=true&ie=UTF8&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=390957 打开后是如下页面：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ee7dgule0xj20o40f440l.jpg
+
+要把第一项和第二项都选好才能选择联系客服的方式，我这里以退货问题举个例子给大家演示：
+退货也属于订单问题，所以第一项选”An order I placed”,选好后就会出现已买过的商品，在要退货的商品前打勾，然后把第二项的选项都选好，我选的是退货的选项，具体大家遇到了具体什么问题要联系客服的话根据自己遇到的情况勾选选项哦！如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1ee7exuj1f8j20o60hptbs.jpg
+
+把1，2的选项都选好以后就可以选择联系客服的方式了，方式有：发邮件（E-mail）、电话(Phone)、在线联系(Chat)。一般都选在线联系最直接有效，如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1ee7f44xvdtj20oh0g6jte.jpg
+
+点chat选项后会出现如下图的一个框，框里需要输入具体的问题描述（要用英文哦），写好具体的问题后点Start Chat按钮就开始正式和在线客服对话了，对话内容都要用英文哦，不知道英文怎么说的可以借助在线翻译哦！
+
+
+
+亚马逊特价购买省钱诀窍
+-------------------------------------------------------
+
+* 关注母婴优惠信息，比如妈妈全球购上的优惠信息（ http://www.mmqqg.com ）
+* 关注美国亚马逊的优惠券页面，优惠券使用教程见：http://www.mmqqg.com/p/26
+* 关注亚马逊母婴用品推荐列表，里面350多个母婴热门海淘品能实时更新价格，并且支持查看价格曲线，价格低点下单，链接见：http://www.jiangleme.com/amazonmom 
+* 其他在亚马逊母婴推荐列表里没有的商品，可以到 http://www.zhuzhuhaitao.com  查价格曲线
+
+`母婴类折扣优惠页面 <http://www.amazon.com/b/?_encoding=UTF8&node=165796011&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_ 
+
+`健康护理类折扣优惠页面 <http://www.amazon.com/b/?_encoding=UTF8&node=3760901&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  
+
+`服饰配件类折扣优惠页面 <http://www.amazon.com/b/?_encoding=UTF8&node=1036592&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  
+
+`鞋类折扣优惠页面 <http://www.amazon.com/b/?_encoding=UTF8&node=672123011&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  
+
+`手表类折扣优惠页面 <http://www.amazon.com/b/?_encoding=UTF8&node=377110011&tag=mmqqg-20&linkCode=ur2&camp=1789&creative=9325>`_  
+
+`热门母婴用品列表 <http://www.jiangleme.com/amazonmom>`_

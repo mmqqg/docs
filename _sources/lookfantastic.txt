@@ -1,0 +1,161 @@
+英淘护肤品教程（LookFantastic攻略）
+====================================================
+
+想海淘护肤品的话英淘是个很好的选择，欧洲的护肤品牌基本都能买到，英国很多护肤品网站都直邮中国而且包邮哦，仅以英淘一家护肤品网站（LookFantastic）为例给大家写个教程
+
+
+.. note::
+    其他能包邮到中国的英国护肤类网站还有 `HQhair <http://go.redirectingat.com?url=http%3A%2F%2Fwww.hqhair.com%2Fhome.dept&xs=1&id=48460X1205860>`_ 、`BeautyExpert <http://go.redirectingat.com?url=http%3A%2F%2Fwww.beautyexpert.co.uk%2Fhome.dept&xs=1&id=48460X1205860>`_ `FeelUnique <http://go.redirectingat.com?url=http%3A%2F%2Fwww.feelunique.com%2F&xs=1&id=48460X1205860>`_
+
+LookFantastic 不仅 **包邮到中国而且还支持支付宝付款** ，没有双币卡一样能淘。因为无论多少金额他家都免邮费寄到中国，\
+所以建议大家初次淘先买一两样东西试试水，不仅能验证自己填写的国内地址是否能正常收到货，而且越少东西越不容易被税，\
+反正贴运费的不是咱们，当然以后想减少被税风险也可以一单少买些东西。
+
+下单流程
+-------------------
+
+首先点此打开 `LookFantastic官网 <http://www.awin1.com/cread.php?awinmid=2082&awinaffid=204815>`_ , 打开后页面如下
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1efruvx26hzj20nb0eodim.jpg
+
+在页面右上角会有个选择语言的框，点开后选择Chinese(Simplified)就是简体中文，上图就是翻译好的效果。因为这个网站是内嵌的Google翻译，所以翻译效果和用Google浏览器是一样的，都会经常翻译不出，所以我后面的教程就直接用的英文版来写了。大家在翻译不出的时候可以多刷新几次。
+
+点击上图中右上角的“请登录”按钮，可进入登录注册页面，左边是老用户登录，右边是新用户注册，如下图
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1efruzdinj6j20s20eqq5s.jpg
+
+已有帐号的就在左边输入邮箱号和密码去登录，没有帐号的就点上图右边所示的CONTINUE按钮去注册
+
+点了COUNTINUE按钮后，就到达填写注册信息的页面，如下图
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1efrv4q2kr1j20rp0imado.jpg
+
+按照图上的内容去填写，用户名只要随意的几个字母就行，是不是真名无所谓的。
+
+.. note::
+    邮箱建议用非QQ邮箱，QQ邮箱经常会被重要邮件拦截掉，所以建议只有QQ邮箱的去申请个163或者Google的邮箱专门海淘使用，这样不会漏掉重要邮件。信息填写好就点CONTINUE按钮完成注册。
+
+注册成功后就会自动登录了，是如下页面
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1efryhpbprrj20rz0hxtc3.jpg
+
+已有订单都会显示在刚登录成功的这个界面
+
+
+在页面上方会有两个搜索框，左边的是按热门品牌搜索，右边的是按关键词搜索，大家可以根据需要自由选择，不知道商品英文名的可以百度或者淘宝去搜哦！
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1efrvjf7xy9j20np0el41i.jpg
+
+比如我要去买这款王妃梳，我就输入关键词去搜索
+
+搜索出来的结果页面如下图
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1efrvplpidvj20sv0ildjm.jpg
+
+搜索结果页面可以按各种不同的排序方式进行排序，如上图标注。在这个页面可以将喜欢的商品点“BUY NOW”直接加入购物车，如果想查看详情后再决定是否购买可以点商品图片或者标题进入商品详情页。
+
+比如我点了商品图片进入到商品详情页如下图
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1efrvy99sl6j20s70ikaed.jpg
+
+在宝贝详情页面可以看商品介绍、发货时间、买家评价等等信息，决定要购买的，就选择数量后点BUY NOW按钮加入购物车。
+
+点了BUY NOW按钮加入购物车后会出现如下页面
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1efrw741xsej20s60hsq6f.jpg
+
+如果要继续购物就点CONTINUE SHOPPING
+
+在商品都选完后,可以看到页面右上角的MY BAG，后面括号里就是购物车中的商品数量，如下图
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1efrw9fczlsj20sh0inn1g.jpg
+
+如果已经挑选完商品了，就点MY BAG后面的数量进入到购物车页面
+
+购物车页面如下图
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1efrwc0qjjoj20rn0j4jus.jpg
+
+购物车页面下方会有个填优惠码的框，此网站有优惠活动的时候，会在网站首页的大图中给出优惠码，也有些是通过邮件发送的。优惠码经常会变，以下单时候的为准哦。
+
+输入优惠码后如下图
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1efrwf71kh9j20rm0jbdjh.jpg
+
+优惠的金额会在下方显示
+如果想要用支付宝支付，需要把币种切换成欧元再去结帐，切换的方法如下图右上角标示：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1efrwipykzzj20n80g3q63.jpg
+
+切换成欧元后，购物车页面就变成了下图这样
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1efrwk5pwquj20sb0k777x.jpg
+
+确认商品无误后，就点GO TO CHECKOUT按钮去结帐
+
+点了GO TO CHECKOUT按钮后，就到达填收货地址的页面，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1efrwm1ghi9j20r30g5tbn.jpg
+
+照着上图中的标注把收货信息填写好，因为收货地址都是给中国的快递员看的，所以都用拼音填写就行。名字也写拼音，由于此网站手机号那一行经常不打印在快递单上，所以最好在名字那一行也写一下手机号，或者在地址那一行加上手机号也行。邮编必须要填正确，最好是精准XX街或者XX小区的邮编，以免快递收不到，不知道具体邮编的可以百度查。
+
+同一个页面往下拉，就是核对商品信息了，如下图
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1efrwvvws1cj20kw0fdtbe.jpg
+
+Tracked Delivery前面的点建议要选择，不然就跟踪不到快递了，反正选择了也是免费的。
+
+
+还是同一页面往下拉，就是选择支付方式，如下图：
+
+.. image::  http://ww1.sinaimg.cn/large/d6e3d8b6jw1efrwxz6exhj20m60ia0v8.jpg
+
+默认是选双币卡支付的，如果是美元的双币卡，支付是需要多收1.5%的手续费的，所以建议支付宝支付就不用多出手续费了，把支付宝前面的点点上，就不用填卡号那些信息了
+
+选好支付宝后点Submit My Order按钮，就到达如下图页面：
+
+.. image::  http://ww3.sinaimg.cn/large/d6e3d8b6jw1efrx01avkgj20le0d00u3.jpg
+
+然后点pay按钮去支付了
+
+就到达了我们非常熟悉的支付宝页面啦，如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1efrx1syml0j20qk0jaae6.jpg
+
+在这个页面会给出欧元的金额和对应的人民币金额，还有下单当时的建行汇率。然后填好支付宝帐号和支付宝登录密码去登录支付宝完成付款。
+注意：如果登录支付宝的时候不是用余额付款，而是用储蓄卡或者信用卡完成的付款，付款完成后如果页面上出现”返回商户页面“的按钮，记得一定要点哦！国外网站有时候很弱智，不点那个按钮有可能网站就识别不到这边款项的。
+
+
+跟踪订单
+--------------------
+
+完成付款后，就可以在刚登录进去的那个页面看到下的订单了，如下图：
+
+.. image:: http://ww4.sinaimg.cn/large/d6e3d8b6jw1efrx77tnbsj20sl0i2juv.jpg
+
+订单状态Processing代表处理中
+
+等网站发货了，会有发货邮件，一般一两天就会发货，发货邮件如下图：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1efryjgn37lj20hn0f9wfy.jpg
+
+点击Click here就可以跟踪快递状态了。除了这个方法跟踪订单外，也可以登录帐户去跟踪
+
+等收到发货邮件了再登录到网站，看到页面如下：
+
+.. image:: http://ww2.sinaimg.cn/large/d6e3d8b6jw1efryy9v8ijj20s50hkad1.jpg
+
+发货后订单在登录成功的这个页面就不会显示了，要点ORDER HISTORY按钮去查看订单。
+
+查看到的订单信息如下图：
+
+.. image:: http://ww3.sinaimg.cn/large/d6e3d8b6jw1efrz8nkts6j20rv0fzwgu.jpg
+
+订单的状态就显示是已发货，点后面的VIEW按钮可以查看订单详情。
+
+点了VIEW按钮后，查看订单详情如下：
+
+.. image:: http://ww1.sinaimg.cn/large/d6e3d8b6jw1efrzawyl7sj20kx0gsgo5.jpg
+
+每个商品后面都会有一个TRACK ORDER按钮，点击后也能跟踪快递状态。
+
