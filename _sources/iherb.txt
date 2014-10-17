@@ -15,6 +15,7 @@ iHerb凑单工具
 ------------------------
 
 iHerb凑单工具链接为：http://www.zhuzhuhaitao.com/iherb 
+`iHerb海淘交流论坛 <http://www.haitaozhiyou.com/bbs/forum-2-1.html>`_ 上面有商品推荐，及时更新海淘优惠信息。有什么问题可以在上面交流。
 
 .. note::
     为了享受最优惠的运费，iHerb常需要凑单，凑出重量7磅以内，金额在60到80美元之间的订单最划算！利用此 `iHerb 凑单工具 <http://www.zhuzhuhaitao.com/iherb>`_  可以按重量和金额范围在指定类目下搜索iHerb的商品，凑单更简单！
@@ -122,3 +123,4 @@ iHerb常见疑问
 
 答：iherb的优惠运费都是商品金额需要减去优惠后不加运费前满60美元才能享受的，如上图的商品金额是76.91美元，优惠是18.58美元，相减后是58.33美元，实际上还没到60美元，所以还需要调整商品。
 
+更多海淘直邮教程优惠请关注 `海淘直邮论坛 <http://www.haitaozhiyou.com/bbs/forum.php>`_

@@ -97,3 +97,4 @@
 
 填好上图中要求填写的信息后，点Pay按钮就是确认支付，点完Pay很快就会收到银行的扣款短信啦，没多久就会收到网站发来的订单确认邮件。等东西发货后还会有一封发货邮件，发货邮件里会有DHL的快递单号。到DHL网站可用单号查询物流信息，查询地址为 http://www.dhl.de/en.html  在Express->Track&Trace->national->Search中输入单号查询即可。一直到状态更新为有UPU Code就表示由中国邮政接收了，然后用UPU Code就可以在 `中国邮政官网 <http://intmail.11185.cn>`_ 跟踪货物到达中国以后的物流状态。
 
+更多海淘直邮教程优惠请关注 `海淘直邮论坛 <http://www.haitaozhiyou.com/bbs/forum.php>`_
