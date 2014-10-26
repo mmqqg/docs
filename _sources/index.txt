@@ -27,7 +27,8 @@
     windeln
     kidsroom
     lookfantastic
-    tlcpharmacy.rst
+    tlcpharmacy
+    gilt
     ship
     intro
     
