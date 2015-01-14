@@ -25,6 +25,7 @@
     iherb
     amazondm
     amazon
+    amazontj
     amazonmom
     amazonjp
     drugstore
