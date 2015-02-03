@@ -27,6 +27,7 @@
     iherb
     amazondm
     amazon
+    asinco
     amazontj
     amazonmom
     amazonjp
@@ -38,6 +39,7 @@
     lookfantastic
     tlcpharmacy
     gilt
+    aotao
     ship
     intro
     
